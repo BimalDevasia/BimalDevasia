@@ -1,4 +1,4 @@
-![Cover Photo](https://your-image-url.com/banner.png)
+
 
 # Hi there, I'm Bimal Devasia 👋
 
