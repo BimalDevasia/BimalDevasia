@@ -14,17 +14,16 @@ I love building modern, scalable web applications and exploring the world of **A
 
 ### 🛠️ Skills
 
-| Frontend               | Backend                | Styling & Tools       |
-|------------------------|------------------------|----------------------|
-| React, Next.js, JavaScript, TypeScript | FastAPI, Node.js, Express | HTML, CSS, Tailwind CSS |
-|                        |                        | Git, Docker, VS Code  |
+| Frontend               | Backend                | Styling & Tools       | Databases              |
+|------------------------|------------------------|------------------------|------------------------|
+| React, Next.js, JavaScript, TypeScript | FastAPI, Node.js, Express, Python | HTML, CSS, Tailwind CSS, Git, Docker, VS Code | MongoDB, PostgreSQL |
 
 ---
 
 ### 📫 How to reach me
 
 - 📧 Email: bimaldevasia@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/bimaldevasia](https://linkedin.com/in/bimaldevasia)  
+- 🔗 LinkedIn: [linkedin.com/in/bimaldevasia](https://www.linkedin.com/in/bimal-devasia-57838a279/)  
 - 🐦 Twitter: [@bimaldevasia](https://twitter.com/bimaldevasia)  
 
 ---
@@ -54,7 +53,8 @@ I love building modern, scalable web applications and exploring the world of **A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
